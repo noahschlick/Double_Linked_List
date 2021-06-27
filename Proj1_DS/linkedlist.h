@@ -1,9 +1,5 @@
 //
 //  linkedlist.h
-//  Proj1_DS
-//
-//  Created by Noah Schlickeisen on 2/16/21.
-//  CS 3358 Data Structures and Algorithms (Section 3358-256)
 //
 //  This file consist of a doubly linked list that can store values of any type.
 //  The nodes of the linked list can be deleted, traversed backwards, and
